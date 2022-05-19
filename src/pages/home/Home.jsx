@@ -1,7 +1,13 @@
 import React from 'react'
+import { Header } from '../../components/header/Header';
+import { Navbar } from '../../components/navbar/Navbar';
+import "../home/home.css";
 
 export const Home = () => {
   return (
-    <div>Home</div>
+    <div>
+      <Navbar/>
+      <Header/>
+    </div>
   )
 }
