@@ -1,3 +1,10 @@
+<div align="center">
+  <h1 align="center">Booking frontend Project</h1>
+  <p align="center">
+    <i>Booking JP</i>
+  </p>
+</div>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
